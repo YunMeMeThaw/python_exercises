@@ -1,16 +1,16 @@
-tabby_dog = "\tI'm tabbed in"
-perrsian_dog = "I'm split\non a line."
+tabby_rat = "\tI'm tabbed in"
+perrsian_rat = "I'm split\non a line."
 
-blackslash_dog = "I'm \\a \\dog."
+blackslash_rat = "I'm \\a \\rat."
 
-fat_dog = """
+fat_rat = """
 I'll do a lst:
-\t* Dog food
+\t* Rat food
 \t* Finishes
-\t* Dognip\n\t* Grass
+\t* Ratnip\n\t* Grass
 """
 
-print(tabby_dog)
-print(perrsian_dog)
-print(blackslash_dog)
-print(fat_dog)
+print(tabby_rat)
+print(perrsian_rat)
+print(blackslash_rat)
+print(fat_rat)
